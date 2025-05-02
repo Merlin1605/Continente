@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1746183791 source:d:\facultate\asc\continente\continent.cpp
+	"Continent.hpp"
+	"PopulationObserver.hpp"
+	<algorithm>
+	<numeric>
+	<sstream>
+
+1746183936 d:\facultate\asc\continente\continent.hpp
+	<string>
+	<string_view>
+	<vector>
+	<memory>
+	<cstdint>
+	<numeric>
+	<algorithm>
+	<sstream>
+	"Exceptions.hpp"
+
+1746105455 source:d:\facultate\asc\continente\africa.cpp
+	"Africa.hpp"
+
+1746099829 d:\facultate\asc\continente\africa.hpp
+	"Continent.hpp"
+
+1746105449 source:d:\facultate\asc\continente\asia.cpp
+	"Asia.hpp"
+
+1746099810 d:\facultate\asc\continente\asia.hpp
+	"Continent.hpp"
+
+1746105442 source:d:\facultate\asc\continente\europe.cpp
+	"Europe.hpp"
+
+1746099792 d:\facultate\asc\continente\europe.hpp
+	"Continent.hpp"
+
+1746182273 source:d:\facultate\asc\continente\main.cpp
+	<iostream>
+	<iomanip>
+	"WorldMap.hpp"
+	"Europe.hpp"
+	"Asia.hpp"
+	"Africa.hpp"
+
+1746100233 d:\facultate\asc\continente\worldmap.hpp
+	<memory>
+	<vector>
+	<algorithm>
+	"Continent.hpp"
+	"Exceptions.hpp"
+
+1746105618 d:\facultate\asc\continente\exceptions.hpp
+	<stdexcept>
+	<string>
+
+1746100242 source:d:\facultate\asc\continente\worldmap.cpp
+	"WorldMap.hpp"
+	<iostream>
+
+1746183504 source:d:\facultate\asc\continente\consolelogger.cpp
+	"ConsoleLogger.hpp"
+	"Continent.hpp"
+
+1746183497 d:\facultate\asc\continente\consolelogger.hpp
+	"PopulationObserver.hpp"
+	<iostream>
+
+1746183433 d:\facultate\asc\continente\populationobserver.hpp
+	<cstdint>
+	<memory>
+	<string>
+
